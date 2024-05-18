@@ -10,7 +10,3 @@ version: 1.0.0
 1. BOOTSTRAP 5
 1. HTML
 1. CSS
-
-# Create DATABASE and Import Table attatched in source code DB Folder
-
-Made with 💖 by Langat Fortune
